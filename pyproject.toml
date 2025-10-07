@@ -1,0 +1,12 @@
+[project]
+name = "flipkart-scraper-mcp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.14.2",
+    "fastmcp>=2.12.4",
+    "lxml>=6.0.2",
+    "requests>=2.32.5",
+]
